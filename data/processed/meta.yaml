@@ -1,0 +1,10 @@
+sf-food-safety.sqlite:
+  title: SF Food Safety
+  description: |
+    Contains tables with data directly imported from the raw SF food safety data.
+  derived_from: /src/dba/bootstrap.sql
+  size: 9.17
+  tables:
+    - name: business
+    - name: inspection
+    - name: violation
