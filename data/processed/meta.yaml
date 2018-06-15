@@ -1,5 +1,6 @@
 sf-food-safety.sqlite:
   title: SF Food Safety
+  format: sqlite
   description: |
     Contains tables with data directly imported from the raw SF food safety data.
   derived_from: /src/dba/bootstrap.sql

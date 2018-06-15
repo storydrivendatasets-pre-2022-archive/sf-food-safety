@@ -1,7 +1,9 @@
 San Francisco Food Safety Data
 ==============================
 
-Health inspection data for San Francisco restaurants
+Health inspection data for San Francisco restaurants.
+
+This is an example of a dataset that can be bootstrapped with just SQL and doesn't have the kind of intensive wrangling that requires separate Python scripting.
 
 
 

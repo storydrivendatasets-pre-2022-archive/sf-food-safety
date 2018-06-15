@@ -3,7 +3,8 @@ DROP TABLE IF EXISTS inspection;
 DROP TABLE IF EXISTS violation;
 
 CREATE TABLE business (
-    business_id TEXT,
+    -- a list of businesses in San Francisco
+    business_id TEXT, -- a business id
     name TEXT,
     address TEXT,
     city TEXT,
